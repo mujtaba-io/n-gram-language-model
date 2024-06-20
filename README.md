@@ -1,5 +1,5 @@
 # N-Gram Language Model in Python
-[Stanford university text for understanding model](http://web.stanford.edu/~jurafsky/slp3/3.pdf).    
+I used [this Stanford university text](http://web.stanford.edu/~jurafsky/slp3/3.pdf) to understand the theory.    
 This is my summer vacation june 2024 ML practice in which I aimed to make a words auto-complete program that is similar to how your mobile keyboard suggests word based on already typed part of message.
 
 # How it works?
